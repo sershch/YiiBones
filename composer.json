@@ -1,12 +1,12 @@
 {
-    "name": "serg/city",
-	"description": "My project town",
+    "name": "serg/yiiBones",
+	"description": "My project yiiBones",
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
 	"autoload": {
-        "psr-4": {"Serg\\Town\\": "src/"}
+        "psr-4": {"Serg\\yiiBones\\": "src/"}
 	
     }
 }
